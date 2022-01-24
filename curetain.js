@@ -1,6 +1,6 @@
 // create config object: rootMargin and threshold
 // are two properties exposed by the interface
-<script src="intersection-observer.js"></script>
+<script src="https://raw.githubusercontent.com/Dan-Holleran/curetain/main/intersection-observer.js"></script>
 
 const config = {
   rootMargin: '0px 0px 50px 0px',
